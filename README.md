@@ -58,6 +58,3 @@ Prodigy Infotech Web Development Intern
 
 ---
 
-## 🔗 Repository Link
-
-(Add your GitHub repository link here
